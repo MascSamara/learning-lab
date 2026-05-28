@@ -58,15 +58,51 @@ body::-webkit-scrollbar{
 }
 
 .hero h1{
-    font-size: 25px;
+    font-size: 22vw;
     color: white;
 }
 
 #fanta{
     position: absolute;
-    width: 40%;
-
-
+    width: 20%;
+    z-index: 2;
 }
 
+#laranja-cortada{
+    position: absolute;
+    width: 18%;
+    top: 10%;
+    left: 32%;
+    z-index: 2;
+}  
 
+#laranja{
+    position: absolute;
+    width: 20%;
+    z-index: 3;
+    top: 55%;
+    right: 30%;
+}  
+
+#folha{
+    top: 10%;
+    left: 0%;
+    width: 18%;
+    transform: rotate(60deg);
+    position:absolute
+}
+
+#folha2{
+    position: absolute;
+    width: 12%;
+    top: 70%;
+    left: 80%;
+    transform: rotate(-90deg);
+}
+#folha3{
+    position: absolute;
+    width: 20%;
+    top: 10%;
+    right: 0%;
+
+}
