@@ -32,9 +32,8 @@ Organizar os scripts em pastas por tema
 Melhorar a legibilidade dos códigos
 Adicionar comentários explicativos
 Evoluir para projetos mais complexos (automação, análise de dados, APIs)
-👩🏽‍💻 Autora
 
-Samara Mascarenhas dos Santos
+👩🏽‍💻 Autora: Samara Mascarenhas dos Santos
 Estudante de Engenharia de Software, com foco em tecnologia, inovação e evolução contínua.
 
 ⚡ Observação
